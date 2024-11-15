@@ -62,7 +62,7 @@ export default function MainHeaderMobile() {
       {/* CONTAINER LOGO & MENU START */}
       <div className="flex flex-row justify-between">
       <i className="bi bi-x-lg text-white"></i>
-      <img className="pt-2 pb-2" src="adidas_logo.svg" alt="adidas logo" />
+      <img className="p-3" src="adidas_logo.svg" alt="adidas logo" />
       <i className="exitIcon bi bi-x-lg text-black cursor-pointer"></i>
       </div>
       {/* CONTAINER LOGO & MENU START */}
