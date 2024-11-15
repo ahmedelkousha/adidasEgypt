@@ -10,10 +10,6 @@ const IMAGES = [
 {url: "shoes1.jpg", title:"Image 1"},
 {url: "shoes5.jpg", title:"Image 5"},
 {url: "shirt1.jpg", title:"Image 6"},
-{url: "shirt2.jpg", title:"Image 7"},
-{url: "shoes1.jpg", title:"Image 1"},
-{url: "shoes5.jpg", title:"Image 5"},
-{url: "shirt1.jpg", title:"Image 6"},
 {url: "shirt2.jpg", title:"Image 7"}
 ];
 
