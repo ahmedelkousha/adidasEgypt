@@ -1,0 +1,49 @@
+* {
+  font-family: "AdihausDIN", sans-serif;
+}
+
+.offerCardImg {
+  height: 60vh;
+  /* width: 330px; */
+  width: 100%;
+}
+.offerCard {
+  /* width: 330px; */
+  color: black;
+  gap: 15px;
+}
+
+.offer-cards-wrapper::-webkit-scrollbar {
+  display: none;
+}
+.offer-cards-wrapper {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.offers-cards-arrow-left {
+  width: 65px;
+  height: 65px;
+  background-color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.offers-cards-arrow-right {
+  width: 65px;
+  height: 65px;
+  background-color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.offersHeadings {
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 38px;
+  font-size: 32px;
+}
